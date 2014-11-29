@@ -29,3 +29,11 @@ social:
     url: https://www.facebook.com/woooddesign
   # - title: linkedin
   #   url:
+
+navigation:
+  - title: About
+    url: /about
+  - title: Products
+    url: /products
+  - title: Contact
+    url: /contact
