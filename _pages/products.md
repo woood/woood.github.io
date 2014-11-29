@@ -1,4 +1,5 @@
 ---
+permalink: /products/
 layout: page
 title: Our products
 ---
