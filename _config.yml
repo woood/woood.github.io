@@ -28,12 +28,15 @@ relative_permalinks: false
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/woooddesign
+  - title: Email us
+    url: mailto:team@woood.co
+    icon: envelope
   - title: facebook
     url: https://www.facebook.com/woooddesign
-  # - title: linkedin
-  #   url:
+    icon: facebook
+  - title: twitter
+    url: https://twitter.com/woooddesign
+    icon: twitter
 
 navigation:
   - title: About
