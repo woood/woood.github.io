@@ -51,14 +51,6 @@ social:
     url: https://twitter.com/woooddesign
     icon: twitter
 
-navigation:
-  - title: About
-    url: /about
-  - title: Products
-    url: /products
-  - title: Contact
-    url: /contact
-
 exclude: ['CNAME', 'LICENSE', 'README.md']
 
 # Serving
