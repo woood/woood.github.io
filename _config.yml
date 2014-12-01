@@ -5,10 +5,9 @@
 url: http://woood.co
 title: Woood
 email: hello@woood.co
-description: > # "Write an awesome description for your new site here.
-  You can edit this line in _config.yml. It will appear in your document
-  head meta (for Google search results) and in your feed.xml site
-  description."
+description: >
+    Woood is a team of young designers
+    bringing you great wooden furniture manifactured in-house.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
