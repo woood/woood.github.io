@@ -1,4 +1,3 @@
-<!-- Footer -->
 <footer>
     <div class="container">
         <div class="row">
@@ -8,7 +7,7 @@
                         <a href="/">Home</a>
                     </li>
                     <li class="footer-menu-divider">&sdot;</li>
-                    {% for nav in site.navigation %}
+                    {% for nav in site.data.navigation %}
                     <li>
                         <a href="{{ nav.url }}">{{ nav.title }}</a>
                     </li>
